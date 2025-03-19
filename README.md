@@ -1,2 +1,2 @@
-# IBM_Coursera
-My study materials and projects from IBM courses on coursera
+# Coursera
+My study materials and projects from courses on coursera
