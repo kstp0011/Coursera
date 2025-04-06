@@ -16,7 +16,12 @@ Most of these courses were taken through audit mode. To supplement my learning, 
 
 - **[Calculus for Machine Learning and Data Science](https://coursera.org/share/0eb4398a2ae0be79a014cccf78cdb366)** – DeepLearning.AI  
   - **Start Date:** 27-03-2025  
-  - **End Date:** 04-04-2025  
+  - **End Date:** 04-04-2025
+
+- **[Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/248ecc720118b822e6387bfb044669d8)** – DeepLearning.AI  
+  - **Start Date:** 05-04-2025  
+  - **End Date:** In Progress
+
 
 ## Additional Learning Resources  
 
@@ -24,3 +29,4 @@ I have referred to the following GitHub repositories for supplementary learning 
 
 - **[Online-Courses-Learning](https://github.com/MrinmoiHossain/Online-Courses-Learning.git)** by *MrinmoiHossain*  
 - **[Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera.git)** by *greyhatguy007*  
+- **[Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization.git)** by *Ryota Kawamura*  
