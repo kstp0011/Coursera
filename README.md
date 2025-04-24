@@ -31,6 +31,7 @@ Most of these courses were taken through audit mode. To supplement my learning, 
 
 I have referred to the following GitHub repositories for supplementary learning materials:  
 
+- **[Machine-Learning-Specialization-Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera.git)** by *greyhatguy007* 
 - **[Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization.git)** by *Ryota Kawamura*  
 - **[Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera.git)** by *greyhatguy007*  
 - **[Online-Courses-Learning](https://github.com/MrinmoiHossain/Online-Courses-Learning.git)** by *MrinmoiHossain*  
