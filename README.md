@@ -8,11 +8,11 @@ Most of these courses were taken through audit mode. To supplement my learning, 
 
 - **[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/f1160ba8e2f72c73b50cafff891ea67e)** – DeepLearning.AI  
   - **Start Date:** 22-04-2025  
+  - **End Date:** In Progress
 
 - **[Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/248ecc720118b822e6387bfb044669d8)** – DeepLearning.AI  
   - **Start Date:** 05-04-2025  
   - **End Date:** 21-04-2025
-  - **End Date:** In Progress
 
 - **[Calculus for Machine Learning and Data Science](https://coursera.org/share/0eb4398a2ae0be79a014cccf78cdb366)** – DeepLearning.AI  
   - **Start Date:** 27-03-2025  
